@@ -3,6 +3,8 @@ A collection of common sorting algorithms implemented in Java for integers. Ther
 ## Running the code
 1. Download the .java files into a single folder.
 2. Open the folder in an IDE and run "SortRunner.java"
+
 *Alternatively...*
+
 1. Download the .java files into a single folder.
 2. Run "SortRunner.java" in the console after changing the directory.
